@@ -1,4 +1,4 @@
-﻿Date,Nifty 50 Open,Nifty 50 High,Nifty 50 Low,Nifty 50 Close,Nifty 50 Shares Traded,Nifty 50 Turnover (Rs. Cr),Nifty 50 P/E,Nifty 50 P/B,Nifty 50 Div Ratio,Bond Price,Bond Open,Bond High,Bond Low,Bond Change %,GOLD Traded,GOLD  Value (Lacs),OIL Traded ,Oil Value (Lacs),INR-USD Conversion
+﻿Date,Nifty 50 Open,Nifty 50 High,Nifty 50 Low,Nifty 50 Close,Nifty 50 Shares Traded,Nifty 50 Turnover (Rs. Cr),Nifty 50 P/E,Nifty 50 P/B,Nifty 50 Div Ratio,Bond Price,Bond Open,Bond High,Bond Low,Bond Change %,GOLD Traded,GOLD  Value (Lacs),OIL_Traded,Oil Value (Lacs),INR-USD Conversion
 1-Jan-14,6244.55,6247.75,6224.9,6227.55,118174966,3071.33,18.23,2.87,1.47,8.848,8.848,8.848,8.848,0.0026,3472,98241.09,8579,52739.47,61.8488
 2-Jan-14,6227.3,6279.55,6131.05,6140.25,249683508,7422.08,17.97,2.83,1.49,8.84,8.84,8.84,8.84,-0.0009,17950,516155.51,74376,453561.62,62.1502
 3-Jan-14,6115,6145.5,6093.75,6136.85,201602653,6954.65,17.96,2.82,1.49,8.837,8.837,8.837,8.837,-0.0003,20481,594395.75,71279,423946.79,62.155
